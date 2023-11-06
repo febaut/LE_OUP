@@ -40,7 +40,7 @@ Output Entry Example:
 
 Before running the app, ensure you have the following prerequisites:
 
-- Python 3.x installed on your development and production environments.
+- Python 3.7+ installed on your development and production environments.
 - An Cloud services account if you plan to deploy the app to a Cloud Service (optional but recommended).
 - The necessary cloud services and resources (e.g., Blob Storage, Azure Functions) set up if deploying to Azure.
 
