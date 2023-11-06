@@ -1,0 +1,1909 @@
+{
+    "жыл": {
+        "lemma_frequency": 2,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+            "Case=Gen"
+        ],
+        "word_forms": {
+            "жылы": {
+                "frequency": 1
+            },
+            "жылдың": {
+                "frequency": 1
+            }
+        }
+    },
+    "желтоқсан": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Loc"
+        ],
+        "word_forms": {
+            "желтоқсанда": {
+                "frequency": 1
+            }
+        }
+    },
+    "заңнама": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3"
+        ],
+        "word_forms": {
+            "заңнамасын": {
+                "frequency": 1
+            }
+        }
+    },
+    "жеке": {
+        "lemma_frequency": 1,
+        "pos": [
+            "ADJ"
+        ],
+        "morph_features": [
+            null
+        ],
+        "word_forms": {
+            "жеке": {
+                "frequency": 1
+            }
+        }
+    },
+    "қылмыстық": {
+        "lemma_frequency": 2,
+        "pos": [
+            "ADJ"
+        ],
+        "morph_features": [
+            null
+        ],
+        "word_forms": {
+            "қылмыстық": {
+                "frequency": 2
+            }
+        }
+    },
+    "\"": {
+        "lemma_frequency": 6,
+        "pos": [
+            "PUNCT"
+        ],
+        "morph_features": [
+            null
+        ],
+        "word_forms": {
+            "\"": {
+                "frequency": 6
+            }
+        }
+    },
+    "енгіз": {
+        "lemma_frequency": 3,
+        "pos": [
+            "VERB"
+        ],
+        "morph_features": [
+            "Case=Nom|VerbForm=Ger",
+            "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass"
+        ],
+        "word_forms": {
+            "енгізу": {
+                "frequency": 2
+            },
+            "енгізілді": {
+                "frequency": 1
+            }
+        }
+    },
+    "жүр": {
+        "lemma_frequency": 2,
+        "pos": [
+            "VERB"
+        ],
+        "morph_features": [
+            "Case=Nom|VerbForm=Ger"
+        ],
+        "word_forms": {
+            "жүргізу": {
+                "frequency": 2
+            }
+        }
+    },
+    "және": {
+        "lemma_frequency": 2,
+        "pos": [
+            "CCONJ"
+        ],
+        "morph_features": [
+            null
+        ],
+        "word_forms": {
+            "және": {
+                "frequency": 2
+            }
+        }
+    },
+    "қорғау": {
+        "lemma_frequency": 1,
+        "pos": [
+            "VERB"
+        ],
+        "morph_features": [
+            "Case=Acc|VerbForm=Ger"
+        ],
+        "word_forms": {
+            "қорғауды": {
+                "frequency": 1
+            }
+        }
+    },
+    "27": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NUM"
+        ],
+        "morph_features": [
+            "NumType=Ord"
+        ],
+        "word_forms": {
+            "27": {
+                "frequency": 1
+            }
+        }
+    },
+    "күшейт": {
+        "lemma_frequency": 1,
+        "pos": [
+            "VERB"
+        ],
+        "morph_features": [
+            "Case=Nom|VerbForm=Ger"
+        ],
+        "word_forms": {
+            "күшейту": {
+                "frequency": 1
+            }
+        }
+    },
+    ",": {
+        "lemma_frequency": 7,
+        "pos": [
+            "PUNCT"
+        ],
+        "morph_features": [
+            null
+        ],
+        "word_forms": {
+            ",": {
+                "frequency": 7
+            }
+        }
+    },
+    "бойынша": {
+        "lemma_frequency": 3,
+        "pos": [
+            "ADP"
+        ],
+        "morph_features": [
+            null
+        ],
+        "word_forms": {
+            "бойынша": {
+                "frequency": 3
+            }
+        }
+    },
+    "Қазақстан": {
+        "lemma_frequency": 2,
+        "pos": [
+            "PROPN"
+        ],
+        "morph_features": [
+            "Case=Nom"
+        ],
+        "word_forms": {
+            "Қазақстан": {
+                "frequency": 2
+            }
+        }
+    },
+    "өзгеріс": {
+        "lemma_frequency": 2,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom|Number=Plur"
+        ],
+        "word_forms": {
+            "өзгерістер": {
+                "frequency": 2
+            }
+        }
+    },
+    "заңнамалық": {
+        "lemma_frequency": 2,
+        "pos": [
+            "ADJ"
+        ],
+        "morph_features": [
+            null
+        ],
+        "word_forms": {
+            "заңнамалық": {
+                "frequency": 2
+            }
+        }
+    },
+    "кейбір": {
+        "lemma_frequency": 2,
+        "pos": [
+            "ADJ",
+            "DET"
+        ],
+        "morph_features": [
+            null,
+            "PronType=Tot"
+        ],
+        "word_forms": {
+            "кейбір": {
+                "frequency": 2
+            }
+        }
+    },
+    "қол": {
+        "lemma_frequency": 1,
+        "pos": [
+            "X"
+        ],
+        "morph_features": [
+            null
+        ],
+        "word_forms": {
+            "қол": {
+                "frequency": 1
+            }
+        }
+    },
+    "мәселе": {
+        "lemma_frequency": 2,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+            "Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3"
+        ],
+        "word_forms": {
+            "мәселелері": {
+                "frequency": 2
+            }
+        }
+    },
+    "толықтыру": {
+        "lemma_frequency": 2,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom|Number=Plur"
+        ],
+        "word_forms": {
+            "толықтырулар": {
+                "frequency": 2
+            }
+        }
+    },
+    "жетілдір": {
+        "lemma_frequency": 1,
+        "pos": [
+            "VERB"
+        ],
+        "morph_features": [
+            "Case=Nom|VerbForm=Ger"
+        ],
+        "word_forms": {
+            "жетілдіру": {
+                "frequency": 1
+            }
+        }
+    },
+    "адам": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Gen"
+        ],
+        "word_forms": {
+            "адамның": {
+                "frequency": 1
+            }
+        }
+    },
+    "құқық": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Acc|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3"
+        ],
+        "word_forms": {
+            "құқықтарын": {
+                "frequency": 1
+            }
+        }
+    },
+    "турал": {
+        "lemma_frequency": 2,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3"
+        ],
+        "word_forms": {
+            "туралы": {
+                "frequency": 2
+            }
+        }
+    },
+    "республика": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3"
+        ],
+        "word_forms": {
+            "Республикасының": {
+                "frequency": 1
+            }
+        }
+    },
+    "мен": {
+        "lemma_frequency": 4,
+        "pos": [
+            "CCONJ"
+        ],
+        "morph_features": [
+            null
+        ],
+        "word_forms": {
+            "мен": {
+                "frequency": 4
+            }
+        }
+    },
+    "акт": {
+        "lemma_frequency": 2,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Ins|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3",
+            "Case=Dat|Number=Plur"
+        ],
+        "word_forms": {
+            "актілеріне": {
+                "frequency": 1
+            },
+            "актілерге": {
+                "frequency": 1
+            }
+        }
+    },
+    "президент": {
+        "lemma_frequency": 2,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom",
+            "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3"
+        ],
+        "word_forms": {
+            "Президент": {
+                "frequency": 1
+            },
+            "президенті": {
+                "frequency": 1
+            }
+        }
+    },
+    "іс": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom"
+        ],
+        "word_forms": {
+            "іс": {
+                "frequency": 1
+            }
+        }
+    },
+    "заң": {
+        "lemma_frequency": 2,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Dat",
+            "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3"
+        ],
+        "word_forms": {
+            "Заңға": {
+                "frequency": 1
+            },
+            "Заңы": {
+                "frequency": 1
+            }
+        }
+    },
+    ".": {
+        "lemma_frequency": 7,
+        "pos": [
+            "PUNCT"
+        ],
+        "morph_features": [
+            null
+        ],
+        "word_forms": {
+            ".": {
+                "frequency": 7
+            }
+        }
+    },
+    "қой": {
+        "lemma_frequency": 1,
+        "pos": [
+            "VERB"
+        ],
+        "morph_features": [
+            "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin"
+        ],
+        "word_forms": {
+            "қойды": {
+                "frequency": 1
+            }
+        }
+    },
+    "2019": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NUM"
+        ],
+        "morph_features": [
+            "NumType=Ord"
+        ],
+        "word_forms": {
+            "2019": {
+                "frequency": 1
+            }
+        }
+    },
+    "қажетті": {
+        "lemma_frequency": 1,
+        "pos": [
+            "ADJ"
+        ],
+        "morph_features": [
+            null
+        ],
+        "word_forms": {
+            "қажетті": {
+                "frequency": 1
+            }
+        }
+    },
+    "Александр": {
+        "lemma_frequency": 1,
+        "pos": [
+            "PROPN"
+        ],
+        "morph_features": [
+            "Case=Nom|Gender=Masc"
+        ],
+        "word_forms": {
+            "Александр": {
+                "frequency": 1
+            }
+        }
+    },
+    "Беларусь": {
+        "lemma_frequency": 1,
+        "pos": [
+            "PROPN"
+        ],
+        "morph_features": [
+            "Case=Nom"
+        ],
+        "word_forms": {
+            "Беларусь": {
+                "frequency": 1
+            }
+        }
+    },
+    "жағдай": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom"
+        ],
+        "word_forms": {
+            "жағдай": {
+                "frequency": 1
+            }
+        }
+    },
+    "ТАСС": {
+        "lemma_frequency": 1,
+        "pos": [
+            "PROPN"
+        ],
+        "morph_features": [
+            "Case=Nom"
+        ],
+        "word_forms": {
+            "ТАСС": {
+                "frequency": 1
+            }
+        }
+    },
+    "дайын": {
+        "lemma_frequency": 1,
+        "pos": [
+            "ADJ"
+        ],
+        "morph_features": [
+            null
+        ],
+        "word_forms": {
+            "дайын": {
+                "frequency": 1
+            }
+        }
+    },
+    "Ресей": {
+        "lemma_frequency": 1,
+        "pos": [
+            "PROPN"
+        ],
+        "morph_features": [
+            "Case=Nom"
+        ],
+        "word_forms": {
+            "Ресей": {
+                "frequency": 1
+            }
+        }
+    },
+    "Лукашенко": {
+        "lemma_frequency": 1,
+        "pos": [
+            "PROPN"
+        ],
+        "morph_features": [
+            "Case=Nom|Gender=Masc"
+        ],
+        "word_forms": {
+            "Лукашенко": {
+                "frequency": 1
+            }
+        }
+    },
+    "барлық": {
+        "lemma_frequency": 1,
+        "pos": [
+            "ADJ"
+        ],
+        "morph_features": [
+            null
+        ],
+        "word_forms": {
+            "барлық": {
+                "frequency": 1
+            }
+        }
+    },
+    "хабарла": {
+        "lemma_frequency": 1,
+        "pos": [
+            "VERB"
+        ],
+        "morph_features": [
+            "Tense=Past|VerbForm=Fin"
+        ],
+        "word_forms": {
+            "хабарлайды": {
+                "frequency": 1
+            }
+        }
+    },
+    "ара": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3"
+        ],
+        "word_forms": {
+            "арасындағы": {
+                "frequency": 1
+            }
+        }
+    },
+    "сендір": {
+        "lemma_frequency": 1,
+        "pos": [
+            "VERB"
+        ],
+        "morph_features": [
+            "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin"
+        ],
+        "word_forms": {
+            "сендірді": {
+                "frequency": 1
+            }
+        }
+    },
+    "айтыу": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3"
+        ],
+        "word_forms": {
+            "айтуынша": {
+                "frequency": 1
+            }
+        }
+    },
+    "проце": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3"
+        ],
+        "word_forms": {
+            "процесі": {
+                "frequency": 1
+            }
+        }
+    },
+    "де": {
+        "lemma_frequency": 1,
+        "pos": [
+            "VERB"
+        ],
+        "morph_features": [
+            "Aspect=Perf|VerbForm=Conv"
+        ],
+        "word_forms": {
+            "деп": {
+                "frequency": 1
+            }
+        }
+    },
+    "өкіл": {
+        "lemma_frequency": 2,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3",
+            "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3"
+        ],
+        "word_forms": {
+            "өкілінің": {
+                "frequency": 1
+            },
+            "өкілі": {
+                "frequency": 1
+            }
+        }
+    },
+    "Путин": {
+        "lemma_frequency": 1,
+        "pos": [
+            "PROPN"
+        ],
+        "morph_features": [
+            "Case=Dat"
+        ],
+        "word_forms": {
+            "Путинге": {
+                "frequency": 1
+            }
+        }
+    },
+    "е": {
+        "lemma_frequency": 1,
+        "pos": [
+            "AUX"
+        ],
+        "morph_features": [
+            "Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3|Tense=Past|VerbForm=Ger"
+        ],
+        "word_forms": {
+            "екеніне": {
+                "frequency": 1
+            }
+        }
+    },
+    "Минск": {
+        "lemma_frequency": 1,
+        "pos": [
+            "PROPN"
+        ],
+        "morph_features": [
+            "Case=Nom"
+        ],
+        "word_forms": {
+            "Минск": {
+                "frequency": 1
+            }
+        }
+    },
+    "жаса": {
+        "lemma_frequency": 1,
+        "pos": [
+            "VERB"
+        ],
+        "morph_features": [
+            "Case=Dat|VerbForm=Ger"
+        ],
+        "word_forms": {
+            "жасауға": {
+                "frequency": 1
+            }
+        }
+    },
+    "үшін": {
+        "lemma_frequency": 1,
+        "pos": [
+            "ADP"
+        ],
+        "morph_features": [
+            null
+        ],
+        "word_forms": {
+            "үшін": {
+                "frequency": 1
+            }
+        }
+    },
+    "Украина": {
+        "lemma_frequency": 1,
+        "pos": [
+            "PROPN"
+        ],
+        "morph_features": [
+            "Case=Nom"
+        ],
+        "word_forms": {
+            "Украина": {
+                "frequency": 1
+            }
+        }
+    },
+    "Кремль": {
+        "lemma_frequency": 1,
+        "pos": [
+            "PROPN"
+        ],
+        "morph_features": [
+            "Case=Nom"
+        ],
+        "word_forms": {
+            "Кремль": {
+                "frequency": 1
+            }
+        }
+    },
+    "келіссөз": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom"
+        ],
+        "word_forms": {
+            "келіссөз": {
+                "frequency": 1
+            }
+        }
+    },
+    "лифт": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom"
+        ],
+        "word_forms": {
+            "лифт": {
+                "frequency": 1
+            }
+        }
+    },
+    "арқылы": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3"
+        ],
+        "word_forms": {
+            "арқылы": {
+                "frequency": 1
+            }
+        }
+    },
+    "130": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NUM"
+        ],
+        "morph_features": [
+            "NumType=Card"
+        ],
+        "word_forms": {
+            "130": {
+                "frequency": 1
+            }
+        }
+    },
+    "ол": {
+        "lemma_frequency": 1,
+        "pos": [
+            "PRON"
+        ],
+        "morph_features": [
+            "Case=Gen|Number=Sing|Person=3|PronType=Prs"
+        ],
+        "word_forms": {
+            "Оның": {
+                "frequency": 1
+            }
+        }
+    },
+    "метр": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom"
+        ],
+        "word_forms": {
+            "метр": {
+                "frequency": 1
+            }
+        }
+    },
+    "жоғары": {
+        "lemma_frequency": 1,
+        "pos": [
+            "ADJ"
+        ],
+        "morph_features": [
+            null
+        ],
+        "word_forms": {
+            "жоғары": {
+                "frequency": 1
+            }
+        }
+    },
+    "биіктік": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3"
+        ],
+        "word_forms": {
+            "Биіктігі": {
+                "frequency": 1
+            }
+        }
+    },
+    "мұнара": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom"
+        ],
+        "word_forms": {
+            "мұнара": {
+                "frequency": 1
+            }
+        }
+    },
+    "биік": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Abl"
+        ],
+        "word_forms": {
+            "биіктен": {
+                "frequency": 1
+            }
+        }
+    },
+    "тамаша": {
+        "lemma_frequency": 1,
+        "pos": [
+            "VERB"
+        ],
+        "morph_features": [
+            "Case=Dat|VerbForm=Ger"
+        ],
+        "word_forms": {
+            "тамашалауға": {
+                "frequency": 1
+            }
+        }
+    },
+    "іш": {
+        "lemma_frequency": 2,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3",
+            "Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3"
+        ],
+        "word_forms": {
+            "ішінде": {
+                "frequency": 1
+            },
+            "ішінен": {
+                "frequency": 1
+            }
+        }
+    },
+    "-": {
+        "lemma_frequency": 2,
+        "pos": [
+            "PUNCT"
+        ],
+        "morph_features": [
+            null
+        ],
+        "word_forms": {
+            "-": {
+                "frequency": 2
+            }
+        }
+    },
+    "жақ": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Loc"
+        ],
+        "word_forms": {
+            "жақтағы": {
+                "frequency": 1
+            }
+        }
+    },
+    "қала": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Acc"
+        ],
+        "word_forms": {
+            "қаланы": {
+                "frequency": 1
+            }
+        }
+    },
+    "бол": {
+        "lemma_frequency": 1,
+        "pos": [
+            "AUX"
+        ],
+        "morph_features": [
+            "Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"
+        ],
+        "word_forms": {
+            "болады": {
+                "frequency": 1
+            }
+        }
+    },
+    "сол": {
+        "lemma_frequency": 1,
+        "pos": [
+            "DET"
+        ],
+        "morph_features": [
+            "PronType=Dem"
+        ],
+        "word_forms": {
+            "сол": {
+                "frequency": 1
+            }
+        }
+    },
+    "көтер": {
+        "lemma_frequency": 1,
+        "pos": [
+            "VERB"
+        ],
+        "morph_features": [
+            "Aspect=Perf|VerbForm=Conv"
+        ],
+        "word_forms": {
+            "көтеріліп": {
+                "frequency": 1
+            }
+        }
+    },
+    "тонна": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Abl"
+        ],
+        "word_forms": {
+            "тоннадан": {
+                "frequency": 1
+            }
+        }
+    },
+    ";": {
+        "lemma_frequency": 1,
+        "pos": [
+            "PUNCT"
+        ],
+        "morph_features": [
+            null
+        ],
+        "word_forms": {
+            ";": {
+                "frequency": 1
+            }
+        }
+    },
+    "тон": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom"
+        ],
+        "word_forms": {
+            "тонна": {
+                "frequency": 1
+            }
+        }
+    },
+    "сақта": {
+        "lemma_frequency": 1,
+        "pos": [
+            "VERB"
+        ],
+        "morph_features": [
+            "Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass"
+        ],
+        "word_forms": {
+            "сақталуда": {
+                "frequency": 1
+            }
+        }
+    },
+    "аса": {
+        "lemma_frequency": 1,
+        "pos": [
+            "VERB"
+        ],
+        "morph_features": [
+            "Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"
+        ],
+        "word_forms": {
+            "асады": {
+                "frequency": 1
+            }
+        }
+    },
+    "болжам": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3"
+        ],
+        "word_forms": {
+            "болжамы": {
+                "frequency": 1
+            }
+        }
+    },
+    "мың": {
+        "lemma_frequency": 3,
+        "pos": [
+            "NUM"
+        ],
+        "morph_features": [
+            "NumType=Card"
+        ],
+        "word_forms": {
+            "мың": {
+                "frequency": 3
+            }
+        }
+    },
+    "қырыққабат": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom"
+        ],
+        "word_forms": {
+            "қырыққабат": {
+                "frequency": 1
+            }
+        }
+    },
+    "қор": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3"
+        ],
+        "word_forms": {
+            "қоры": {
+                "frequency": 1
+            }
+        }
+    },
+    "32": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NUM"
+        ],
+        "morph_features": [
+            "NumType=Card"
+        ],
+        "word_forms": {
+            "32": {
+                "frequency": 1
+            }
+        }
+    },
+    "құра": {
+        "lemma_frequency": 1,
+        "pos": [
+            "VERB"
+        ],
+        "morph_features": [
+            "Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin"
+        ],
+        "word_forms": {
+            "құрайды": {
+                "frequency": 1
+            }
+        }
+    },
+    "ег": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom"
+        ],
+        "word_forms": {
+            "егін": {
+                "frequency": 1
+            }
+        }
+    },
+    "картоп": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom"
+        ],
+        "word_forms": {
+            "картоп": {
+                "frequency": 1
+            }
+        }
+    },
+    "Атап": {
+        "lemma_frequency": 1,
+        "pos": [
+            "X"
+        ],
+        "morph_features": [
+            null
+        ],
+        "word_forms": {
+            "Атап": {
+                "frequency": 1
+            }
+        }
+    },
+    "айт": {
+        "lemma_frequency": 1,
+        "pos": [
+            "VERB"
+        ],
+        "morph_features": [
+            "Tense=Past|VerbForm=Part"
+        ],
+        "word_forms": {
+            "айтқанда": {
+                "frequency": 1
+            }
+        }
+    },
+    "170": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NUM"
+        ],
+        "morph_features": [
+            "NumType=Card"
+        ],
+        "word_forms": {
+            "170": {
+                "frequency": 1
+            }
+        }
+    },
+    "тоннан": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Acc"
+        ],
+        "word_forms": {
+            "тоннаны": {
+                "frequency": 1
+            }
+        }
+    },
+    "380": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NUM"
+        ],
+        "morph_features": [
+            "NumType=Card"
+        ],
+        "word_forms": {
+            "380": {
+                "frequency": 1
+            }
+        }
+    },
+    "ерте": {
+        "lemma_frequency": 1,
+        "pos": [
+            "ADJ"
+        ],
+        "morph_features": [
+            null
+        ],
+        "word_forms": {
+            "ерте": {
+                "frequency": 1
+            }
+        }
+    },
+    "халықаралық": {
+        "lemma_frequency": 1,
+        "pos": [
+            "ADJ"
+        ],
+        "morph_features": [
+            null
+        ],
+        "word_forms": {
+            "Халықаралық": {
+                "frequency": 1
+            }
+        }
+    },
+    "меморанду": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Dat"
+        ],
+        "word_forms": {
+            "меморандумға": {
+                "frequency": 1
+            }
+        }
+    },
+    "медиация": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom"
+        ],
+        "word_forms": {
+            "медиация": {
+                "frequency": 1
+            }
+        }
+    },
+    "мақсат": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3"
+        ],
+        "word_forms": {
+            "мақсатында": {
+                "frequency": 1
+            }
+        }
+    },
+    "орнын": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3"
+        ],
+        "word_forms": {
+            "орнын": {
+                "frequency": 1
+            }
+        }
+    },
+    "солтүстік": {
+        "lemma_frequency": 1,
+        "pos": [
+            "ADJ"
+        ],
+        "morph_features": [
+            null
+        ],
+        "word_forms": {
+            "Солтүстік": {
+                "frequency": 1
+            }
+        }
+    },
+    "отыр": {
+        "lemma_frequency": 1,
+        "pos": [
+            "VERB"
+        ],
+        "morph_features": [
+            "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin"
+        ],
+        "word_forms": {
+            "отырды": {
+                "frequency": 1
+            }
+        }
+    },
+    "орталық": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3"
+        ],
+        "word_forms": {
+            "орталығы": {
+                "frequency": 1
+            }
+        }
+    },
+    "СҚО": {
+        "lemma_frequency": 1,
+        "pos": [
+            "PROPN"
+        ],
+        "morph_features": [
+            "Case=Nom"
+        ],
+        "word_forms": {
+            "СҚО": {
+                "frequency": 1
+            }
+        }
+    },
+    "РҚБ": {
+        "lemma_frequency": 1,
+        "pos": [
+            "PROPN"
+        ],
+        "morph_features": [
+            "Case=Nom"
+        ],
+        "word_forms": {
+            "РҚБ": {
+                "frequency": 1
+            }
+        }
+    },
+    "көлік": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom"
+        ],
+        "word_forms": {
+            "көлік": {
+                "frequency": 1
+            }
+        }
+    },
+    "олқылық": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Gen"
+        ],
+        "word_forms": {
+            "олқылықтың": {
+                "frequency": 1
+            }
+        }
+    },
+    "бұл": {
+        "lemma_frequency": 1,
+        "pos": [
+            "DET"
+        ],
+        "morph_features": [
+            "PronType=Dem"
+        ],
+        "word_forms": {
+            "Бұл": {
+                "frequency": 1
+            }
+        }
+    },
+    "Бесембаев": {
+        "lemma_frequency": 1,
+        "pos": [
+            "PROPN"
+        ],
+        "morph_features": [
+            "Case=Ins|Gender=Masc"
+        ],
+        "word_forms": {
+            "Бесембаевамен": {
+                "frequency": 1
+            }
+        }
+    },
+    "прокуратура": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3"
+        ],
+        "word_forms": {
+            "прокуратурасы": {
+                "frequency": 1
+            }
+        }
+    },
+    "би": {
+        "lemma_frequency": 1,
+        "pos": [
+            "PROPN"
+        ],
+        "morph_features": [
+            "Case=Nom|Gender=Masc"
+        ],
+        "word_forms": {
+            "би": {
+                "frequency": 1
+            }
+        }
+    },
+    "толтыр": {
+        "lemma_frequency": 1,
+        "pos": [
+            "VERB"
+        ],
+        "morph_features": [
+            "Case=Nom|VerbForm=Ger"
+        ],
+        "word_forms": {
+            "толтыру": {
+                "frequency": 1
+            }
+        }
+    },
+    "алтын": {
+        "lemma_frequency": 1,
+        "pos": [
+            "PROPN"
+        ],
+        "morph_features": [
+            "Case=Nom|Gender=Masc"
+        ],
+        "word_forms": {
+            "Алтын": {
+                "frequency": 1
+            }
+        }
+    },
+    "зейнетақ": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom"
+        ],
+        "word_forms": {
+            "зейнетақы": {
+                "frequency": 1
+            }
+        }
+    },
+    "дамыт": {
+        "lemma_frequency": 1,
+        "pos": [
+            "VERB"
+        ],
+        "morph_features": [
+            "Case=Nom|VerbForm=Ger"
+        ],
+        "word_forms": {
+            "дамыту": {
+                "frequency": 1
+            }
+        }
+    },
+    "сақтандыр": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Gen"
+        ],
+        "word_forms": {
+            "сақтандырудың": {
+                "frequency": 1
+            }
+        }
+    },
+    "сақтандыру": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom"
+        ],
+        "word_forms": {
+            "сақтандыру": {
+                "frequency": 1
+            }
+        }
+    },
+    "2022": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NUM"
+        ],
+        "morph_features": [
+            "NumType=Ord"
+        ],
+        "word_forms": {
+            "2022": {
+                "frequency": 1
+            }
+        }
+    },
+    "әлеуметтік": {
+        "lemma_frequency": 1,
+        "pos": [
+            "ADJ"
+        ],
+        "morph_features": [
+            null
+        ],
+        "word_forms": {
+            "әлеуметтік": {
+                "frequency": 1
+            }
+        }
+    },
+    "маңызды": {
+        "lemma_frequency": 1,
+        "pos": [
+            "ADJ"
+        ],
+        "morph_features": [
+            null
+        ],
+        "word_forms": {
+            "маңызды": {
+                "frequency": 1
+            }
+        }
+    },
+    "баста": {
+        "lemma_frequency": 1,
+        "pos": [
+            "VERB"
+        ],
+        "morph_features": [
+            "Aspect=Perf|VerbForm=Conv"
+        ],
+        "word_forms": {
+            "бастап": {
+                "frequency": 1
+            }
+        }
+    },
+    "аннуитет": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3"
+        ],
+        "word_forms": {
+            "аннуитеті": {
+                "frequency": 1
+            }
+        }
+    },
+    "жаңа": {
+        "lemma_frequency": 1,
+        "pos": [
+            "ADJ"
+        ],
+        "morph_features": [
+            null
+        ],
+        "word_forms": {
+            "жаңа": {
+                "frequency": 1
+            }
+        }
+    },
+    "бағалы": {
+        "lemma_frequency": 1,
+        "pos": [
+            "ADJ"
+        ],
+        "morph_features": [
+            null
+        ],
+        "word_forms": {
+            "бағалы": {
+                "frequency": 1
+            }
+        }
+    },
+    "сонымен": {
+        "lemma_frequency": 1,
+        "pos": [
+            "PRON"
+        ],
+        "morph_features": [
+            "Case=Ins|PronType=Dem"
+        ],
+        "word_forms": {
+            "Сонымен": {
+                "frequency": 1
+            }
+        }
+    },
+    "өнім": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3"
+        ],
+        "word_forms": {
+            "өнімі": {
+                "frequency": 1
+            }
+        }
+    },
+    "ҚР": {
+        "lemma_frequency": 1,
+        "pos": [
+            "PROPN"
+        ],
+        "morph_features": [
+            "Case=Nom"
+        ],
+        "word_forms": {
+            "ҚР": {
+                "frequency": 1
+            }
+        }
+    },
+    "нарық": {
+        "lemma_frequency": 2,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3"
+        ],
+        "word_forms": {
+            "нарығын": {
+                "frequency": 2
+            }
+        }
+    },
+    "қыркүйек": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3"
+        ],
+        "word_forms": {
+            "қыркүйегінен": {
+                "frequency": 1
+            }
+        }
+    },
+    "өмірд": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Acc"
+        ],
+        "word_forms": {
+            "өмірді": {
+                "frequency": 1
+            }
+        }
+    },
+    "бірлес": {
+        "lemma_frequency": 1,
+        "pos": [
+            "VERB"
+        ],
+        "morph_features": [
+            "Tense=Past|VerbForm=Part"
+        ],
+        "word_forms": {
+            "бірлескен": {
+                "frequency": 1
+            }
+        }
+    },
+    "қатар": {
+        "lemma_frequency": 1,
+        "pos": [
+            "ADP"
+        ],
+        "morph_features": [
+            null
+        ],
+        "word_forms": {
+            "қатар": {
+                "frequency": 1
+            }
+        }
+    },
+    "қағаз": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Nom|Number=Plur"
+        ],
+        "word_forms": {
+            "қағаздар": {
+                "frequency": 1
+            }
+        }
+    },
+    "ретте": {
+        "lemma_frequency": 1,
+        "pos": [
+            "VERB"
+        ],
+        "morph_features": [
+            "Case=Nom|VerbForm=Ger"
+        ],
+        "word_forms": {
+            "реттеу": {
+                "frequency": 1
+            }
+        }
+    },
+    "аяыс": {
+        "lemma_frequency": 1,
+        "pos": [
+            "NOUN"
+        ],
+        "morph_features": [
+            "Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3"
+        ],
+        "word_forms": {
+            "аясында": {
+                "frequency": 1
+            }
+        }
+    }
+}
